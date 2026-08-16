@@ -1,6 +1,6 @@
 # 💫 About Me: 
-Intro: Hi there! I am Rohan Bhambare, currently college student...<br><br>
-🔭 I'm currently working on A Full Stack Project...<br><br>
+Intro: Hi there! I am Rohan Bhambare, Currently 3rd Year College Student...<br><br>
+🔭 I'm currently working on AIML Project...<br><br>
 👯 I'm looking to collaborate on Open Source Projects<br><br>
 💬 Ask me about Java, SpringBoot, AIML, Python, React, GoLang, MySQL, MongoDB, REST API's, HTML, CSS, JS
 
